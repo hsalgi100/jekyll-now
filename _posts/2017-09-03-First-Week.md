@@ -11,7 +11,7 @@ I've dabbled in a few programming languages in the past, namely Java, Python, an
 
 ### What did you do this past week?
 
-Reading. I did a LOT of reading. This week was the first week of school, and this semester my teachers absolutely love books. Granted, everything I read was quite interesting so it wasn't that bad. In this class I read about how to be an extreme progammer, and it was really interesting. I like how it's a textbook that gives strategies for how to work with people. It's an easy read, and useful for understanding and learning a good dynamic in the workplace. I also read the supplementa documents, and the one titled "Little Bug, Big Bang" really struck me. It was hilarious, but also a little bit terrifying. I really feel bad for whoever made the mistake that caused that, whether it be one person or more than one. I wonder how fast they got fired. Aside from that, I had a little epiphany. Maybe languages like rust and kitten have ints with specified sizes now (like 32bit and 64bit) so that something like that doesn't happen again. I always thought they were just being annoyingly specific until now.
+Reading. I did a LOT of reading. This week was the first week of school, and this semester my teachers absolutely love books. Granted, everything I read was quite interesting so it wasn't that bad. In this class I read about how to be an extreme progammer, and it was really interesting. I like how it's a textbook that gives strategies for how to work with people. It's an easy read, and useful for understanding and learning a good dynamic in the workplace. I also read the supplementa documents, and the one titled "Little Bug, Big Bang" really struck me. It was hilarious, but also a little bit terrifying. I really feel bad for whoever made the mistake that caused that, whether it be one person or more than one. I wonder how fast they got fired... Aside from that, I had a little epiphany. Maybe languages like rust and kitten have ints with specified sizes now (like 32bit and 64bit) so that something like that doesn't happen again. I always thought they were just being annoyingly specific until now.
 
 The rest of what I did this week had absolutely nothing to do with computer science. Though I am happy to say that I am now about halfway done with season 4 of Game of Thrones, so that is progressing nicely. 
 
@@ -21,4 +21,18 @@ As I said earlier, this is my very first computer science class at UT. I have ne
 
 ### What will you do next week?
 
-Next week I will start on the first project that I have set to do for this class. I will also continue will the next 300 pages I have to read for assorted classes. 
+I will start on the first project that I have set to do for this class. I will also continue will the next 300-400 pages I have to read for assorted classes. 
+
+I want to read other people's blogs and see what sorts of things they recommend. If I see anything that could be useful, I will experiment with it next week. 
+
+### What's my experience of the class?
+
+As I stated before, it is a well paced class and the readings are good. The professor asks people questions and puts them on the spot, but they aren't really very complicated questions (though admittedly I don't always know the answer), and he is really nice about correcting the students and giving them a second chance. I've only been in the class for two days but I am liking it so far. It's a good class to observe, and a good class to take. 
+
+### What's my pick-of-the-week or tip-of-the-week?
+
+I don't really have much to say here, though hopefully that will change as the semester progresses. 
+
+I really like hackerrank. We are using it in this class, but it is what got me familiar with haskell. It's really nice if you just want to try learning a new language. There are a lot of exercises you can do to practice. Don't believe their "easy", "medium", and "hard" markings all the time though because sometimes they are not accurate. At least they weren't for haskell. 
+
+Also the Rains of Castamere is a great song to listen to while studying or programming, if you like to listen to music. If you like silence, then just ignore this. 
