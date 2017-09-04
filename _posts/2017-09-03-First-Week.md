@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS373 Fall 2017 Helen Salgi
+title: "CS373 Fall 2017: Helen Salgi"
 ---
 
 This blog will be centered around things I learn from and for CS373. It is my very first programming course at the university and I hope to get a lot out of it.
